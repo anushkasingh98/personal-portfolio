@@ -17,7 +17,7 @@ deactivate
 
 #### Start Project
 ```bash
-django-admin startproject web1
+django-admin startproject personal_portfolio
 ```
 ```python
 python3 manage.py runserver
